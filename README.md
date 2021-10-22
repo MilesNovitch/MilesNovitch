@@ -68,11 +68,42 @@ Another student organization that I ended up joining was the social fraternity, 
   <a name="sw_lang"></a>
   
   ## Programming Languages I've Used
-  Below are some screenshots and snippets of code from each programming language I have used throuhgout college. 
+  Below are screenshots and snippets of code from some of programming language I have used throuhgout college. 
   
-  <table>
-    
+  <table border="1" align="center">
+    <tr>
+      <th>VBA</th>
+      <th>Python</th>
+    </tr>
+    <tr>
+      <td><img src=" " height="240" width="auto"/></td>
+      <td><img src=" " height="240" width="auto"/></td>
+    </tr>
+    <tr>
+      <th>Java</th>
+      <th>R</th>
+    </tr>
+    <tr>
+      <td><img src=" " height="240" width="auto"/></td>
+      <td><img src=" " height="240" width="auto"/></td>
+    </tr>
+    <tr>
+      <th>HTML</th>
+      <th>JavaScript</th>
+    </tr>
+    <tr>
+      <td><img src=" " height="240" width="auto"/></td>
+      <td><img src=" " height="240" width="auto"/></td>
+    </tr>
+    <tr>
+      <th colspan="2">SQL</th>
+    </tr>
+    <tr>
+      <td><img src=" " height="240" width="auto"/></td>
+      <td><img src=" " height="240" width="auto"/></td>
+    </tr>
   </table>
+  
   R
   SQL
   Java
