@@ -1,4 +1,4 @@
-<a name="top">
+<a name="top"></a>
   
 # Welcome to My Porfolio
 
@@ -6,6 +6,9 @@
   My name is Miles Novitch, and I am a senior at the University of Denver. I am going to be receiving my BS in Business Administratrion from the Daniels College of Business, with a major in Business Analytics and a minor in Computer Science. Oringially from Los Angeles with a mind set of going into the film industry, I discovered early on in my college career that actually I wanted to work with technology and computers. Luckily, I have acquired a wide range of coding experince in different languages from the many classes I have taken here;everything from Database programming to using high-level and object-oriented languages, markup languages, and. Even though I am still trying to figure out which direction I want to go with my professional career, I know that my passion lies with data and coding. 
   
   <hr>
+  <br>
+  
+  <a name="path_bia"></a>
   
   ## My Path Through BIA At Daniels
   
@@ -27,7 +30,7 @@
   #### INFO 3340 (Project Management and Simulation)
   This couse mainly focused on managing projects and running simulations. While we had some very brief experience with coding in R in some of the previous classes, this class was really where we devled into its applications. Most of this class took place in R and R Studio, and we were taught how to write in the R Markdown language. We learned about different types of modeling and simulations, such as Monte Carlo simulation modeling, and how they could be used to inform business decisions and projects. We also discussed a lot about what it takes to manage projects and work with other people, as those are skills we will need to develop as we move into our chosen career paths. Our projects in this class consisted of creating multiple simulations in R Studio that could be used by a company, and explaining what the simulations tells and how it can be used to make good business decisions.
   
-  <hr>
+  <a name="path_cs"></a>
   
   ## My Path Through Computer Science
   
@@ -37,6 +40,24 @@
   #### COMP 3410 (World Wide Web Programming)
   I decided to take this class as an elective to broaden my experiences with different coding languages. This course is also part of a 3-class sequence, and this first one is meant to teach us the ropes of coding in both HTML and JavaScript, and using them to design web pages. We were taught how to format text, insert media, and write functions and scripts using both languages. All of our projects consisted of creating web pages with various pieces of conent and functionality. 
   
+  <hr>
+  <br>
+  
+  <a name="softskills"></a>
+  
+  ## My Soft Skills
+  
+  ### Leadership Experience
+  Delta Chi, APO, Marching Band
+  
+  ### Communitcation & Teamwork
+  group projects, (refer to leadership positions "in addition to leadershop, i also learned communication")
+  
+  ### Problem Solving & Working Under Pressure
+  papa johns
+  
+  <hr>
+  <br>
   
   
   
