@@ -48,9 +48,15 @@
   ## My Soft Skills
   
   ### Leadership Experience
-  Delta Chi, APO, Marching Band
+  One of my soft skills that I pride myself the most on is my leadership abilities. I have acquired leadership experience over many years and throughout different activities and organizations. In high school, I was a dedicated member of our school's marching band and drumline, and received the role of Drum Captain my senior year. This position came with  a great deal of responsibility and required me to be an emaculate role model on top of being a musical section leader. Both on and off the field I was responsible for all others in my section and making sure we could all play our music as well as the rest of the band. This experience really helped set a good foundation for my leadership style and confidence, and is what inspired me to pursue later leadership opportunities. 
+  
+  Upon arrival at DU, I was excited explore more leadership opportunities among different student organizations. One club I ended up joining was the community service fraternity, Alpha Phi Omega. My junior year, I got elected to a leadership position and to serve on the executive board. Again, I served as a role model to the rest of the group and I was introduced to many new responsibilities. I had to lead group activities, plan events, play leadership roles in important rituatls, and just generally be active and social with all the members.
+
+Another student organization that I ended up joining was the social fraternity, Delta Chi. I joined this group my freshman year, and was active in it throughout my entire undergrad. While I was in this fraternity, I served 3 separate leadership positions across 3 separete terms. My third position, however, was by far the most important and most impactful on my leadership abilities. I was on the executive board as the secretary, meaning I was responsible for reserving event spaces, taking notes at meetings, organizing and moderating our communication chanels, relaying information about our chapter to the national organization, and keeping track of every member's attendance throuhgout the year. Additionally, since we are a big social fraternity on campus, I was one of the faces and representative of the organization; what I did reflect on the rest of my peers. This experience really taught me how to organize myself and utilize my time properly, as there were many points in which I faced important deadlines for paperwork that needed to be turned in to the university or to nationals. It also really helped me gegeranlly sharpen my leaderhsip abilities across the board. 
   
   ### Communitcation & Teamwork
+  In addition to giving me great leadership experience, my leadership roles at DU also heavily contributed to my communication skills. 
+  
   group projects, (refer to leadership positions "in addition to leadershop, i also learned communication")
   
   ### Problem Solving & Working Under Pressure
@@ -58,6 +64,10 @@
   
   <hr>
   <br>
+  
+  <a name="sw_lang"></a>
+  
+  ## Software and Programming Languages I've Used
   
   
   
