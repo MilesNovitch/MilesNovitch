@@ -19,7 +19,7 @@
   This course put more of an emphasis on the modeling side of data analytics. We were intoduced to a multitude of modeling techniques using Excel, such as multiple regression analysis, time series analysis, and simulation. We learned how these techniques could be used for forecasting, making better business decisions, and improving business processes. Our projects including performing a regression on research data, and performing a simulation on some ficticious road trip data.
   
   #### INFO 3100 (Automating Business Processes)
-  This course was our first introduction to coding languages and focused on using Microsoft Excel and Python to support decision making for managers. Throughout, we learned how to automate tasks, such as reading/writing in, cleaning, formatting, and graphing data. This course was divided into two halves, with the first half focusing on VBA in Excel, and the second half focusing on Python. Within each language, we were taught how to utilize functions, objects, and methods to achieve the desired automation. Our first two projects consisted of reading in data from multiple files - one project being in VBA and the other in Python - and displaying the data in a neat and professional manner. The final project actually had us performing regressions and descriptive statistics through via entirely Python. 
+  This course was our first introduction to coding languages and focused on using Microsoft Excel and Python to support decision making for managers. Throughout, we learned how to automate tasks, such as reading/writing in, cleaning, formatting, and graphing data. This course was divided into two halves, with the first half focusing on VBA in Excel, and the second half focusing on Python. Within each language, we were taught how to utilize functions, objects, and methods to achieve the desired automation. Our first two projects consisted of reading in data from multiple files--one project being in VBA and the other in Python--and displaying the data in a neat and professional manner. The final project actually had us performing regressions and descriptive statistics through via entirely Python. 
   
   #### INFO 3200 (Data Mining & Visualization)
   This course was really where we started delving into the collection and presentation of data. One of the biggest lessons I took away from this class was that you can have all the data in the world and spend time and energy to analyze it, but whatever you can derive from it is completely useless unless you can communicate your results to other people. The easiest and most universal way to communicate complex topics is through visualization, and luckily we have many tools at our disposal to present data and statistical results, and to perform prediction modeling storytelling through visual means. The tools we mainly focused on were JMP and Tableau, with JMP focusing more on modeling, and Tableau focusing more on storytelling. In addition, we were also introduced to some basic R and R Markdown to help us with creating models and simulations. Our projects included performing a number of modeling techniques on a ficticious data set to help make predictions, and creating a visual dashboard for a company that included graphs and predictive models. 
@@ -55,19 +55,31 @@
 Another student organization that I ended up joining was the social fraternity, Delta Chi. I joined this group my freshman year, and was active in it throughout my entire undergrad. While I was in this fraternity, I served 3 separate leadership positions across 3 separete terms. My third position, however, was by far the most important and most impactful on my leadership abilities. I was on the executive board as the secretary, meaning I was responsible for reserving event spaces, taking notes at meetings, organizing and moderating our communication chanels, relaying information about our chapter to the national organization, and keeping track of every member's attendance throuhgout the year. Additionally, since we are a big social fraternity on campus, I was one of the faces and representative of the organization; what I did reflect on the rest of my peers. This experience really taught me how to organize myself and utilize my time properly, as there were many points in which I faced important deadlines for paperwork that needed to be turned in to the university or to nationals. It also really helped me gegeranlly sharpen my leaderhsip abilities across the board. 
   
   ### Communitcation & Teamwork
-  In addition to giving me great leadership experience, my leadership roles at DU also heavily contributed to my communication skills. 
+  In addition to giving me great leadership experience, my leadership roles at DU also heavily contributed to my communication skills. As the Secretary of a fraternity, I had to make sure that ever single member was up to date on our chapter's events, current business, and goals. Being heavily involved, I also had to keep track of multiple communication channels, including text chats, messenger app chats, Slack channels, and emails, as well as relay important information betweem them. Holding that position taught me how to stay organized in a chaotic environment like that, and how to not fall behind or get complacent with communications. However, having good communication isn't everything--you also need to know how to work in a group and work as a team. As a fraternity we had many goals, such as raising a certain amount of money for philanthropy, volunteering a certain number of community service hours, or recruiting a certain amount of new members. Achieving these goals required myself and the rest of the chapter to work together and work with a purpose.
   
-  group projects, (refer to leadership positions "in addition to leadershop, i also learned communication")
+  Delta Chi was not the place where I got to practice and encorporate teamwork. Throughout my many classes in the business school, including the BIA program, I have been a part of countless group projects and presentations. All of these projects require not only good communication between team members, but also a good amount of cooperation and teamwork. There were many points in which I took on the leader role of a group and was responsible for our submissions, and there were also times were I was acting merely as a team-player; in either case, the one thing that stayed consistent was the fact that the only way to achieve the outcome we wanted was by working together in a way that utilized our strengths and minimized our weaknesses. 
   
   ### Problem Solving & Working Under Pressure
-  papa johns
+  While I have no prior experience in a data analyst work environment, I do have experience with problem solving in a high-pressure environment. The summer of my junior year I wokred at a pizza place, both in the kitchen and as a delivery driver. At the time, our store was very understaffed but in quite a populous location, meaning we often received more orders than we could handle, and meaning I would often be doing both kicthen and delivery at the same time. My shifts were extremely stressful, as I had to make a prep the food while keeping track of the orders while also pulling deliveries and helping out customers at the front. Because I had so many tasks I had to do at once, and because I was under time constraints with how long it takes to make and deliver the food, this job really taught me how to work well under pressure. There were also many instances in which orders or delivery got messed up, and I had to figure out what the best course of action was on the fly. Being able to quickly solve problems while respecting your other responsibilities is a skill that I was definitely able to develop here, and is something I hope to apply to a job in my professional career.
   
   <hr>
   <br>
   
   <a name="sw_lang"></a>
   
-  ## Software and Programming Languages I've Used
+  ## Programming Languages I've Used
+  Below are some screenshots and snippets of code from each programming language I have used throuhgout college. 
+  
+  R
+  SQL
+  Java
+  JavaSript
+  HTML
+  VBA
+  Python
+
+  
+  
   
   
   
