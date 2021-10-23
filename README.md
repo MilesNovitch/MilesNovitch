@@ -115,7 +115,7 @@ Another student organization that I ended up joining was the social fraternity, 
   
   ## My Projects
   
-  #### Database Project - Stoked
+  ### Database Project - Stoked
   
   Stoked is a winter sports movie streaming service, bringing you the latest and greatest in ski edits, montages, films. The purpose of this database is to keep track of all the production companies, movies, diretors, athletes, and sponsors that work with the company. This database can be used to make decisions about customer usage, movie popularity, athlete popularity, and geographical statistcs. 
   
@@ -165,3 +165,9 @@ We also have our reports, such as this one which shows us Films by Production Co
 <br>
 
 <img src="Screenshots/Database_SS_4.PNG" height="auto" width="auto">
+
+<br>
+
+### Infographic Project
+
+For these projects, we had to create an infographic that conveyed some research statistics.
