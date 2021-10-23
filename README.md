@@ -6,6 +6,10 @@
   My name is Miles Novitch, and I am a senior at the University of Denver. I am going to be receiving my BS in Business Administratrion from the Daniels College of Business, with a major in Business Analytics and a minor in Computer Science. Oringially from Los Angeles with a mind set of going into the film industry, I discovered early on in my college career that actually I wanted to work with technology and computers. Luckily, I have acquired a wide range of coding experince in different languages from the many classes I have taken here;everything from Database programming to using high-level and object-oriented languages, markup languages, and. Even though I am still trying to figure out which direction I want to go with my professional career, I know that my passion lies with data and coding. 
   
   <hr>
+  
+Quick Links: [My BIA Path](#path_bia)  |  [My Comp Sci Path](#path_cs)  |  [Soft Skills](#softskills)  |  [Programming Languages](#prog_lang)  |  [Projects](#projects)
+  
+  <hr>
   <br>
   
   <a name="path_bia"></a>
@@ -65,7 +69,7 @@ Another student organization that I ended up joining was the social fraternity, 
   <hr>
   <br>
   
-  <a name="sw_lang"></a>
+  <a name="prog_lang"></a>
   
   ## Programming Languages I've Used
   Below are screenshots and snippets of code from some of programming language I have used throuhgout college. 
@@ -76,44 +80,37 @@ Another student organization that I ended up joining was the social fraternity, 
       <th>Python</th>
     </tr>
     <tr>
-      <td><img src=" " height="240" width="auto"/></td>
-      <td><img src=" " height="240" width="auto"/></td>
+      <td><img src="Screenshots/VBA_Code.PNG" height="240" width="auto"></td>
+      <td><img src="Screenshots/Python_Code.PNG" height="240" width="auto"></td>
     </tr>
     <tr>
       <th>Java</th>
       <th>R</th>
     </tr>
     <tr>
-      <td><img src=" " height="240" width="auto"/></td>
-      <td><img src=" " height="240" width="auto"/></td>
+      <td><img src="Screenshots/Java_Code.PNG" height="240" width="auto"></td>
+      <td><img src="Screenshots/R_Code.PNG" height="240" width="auto"></td>
     </tr>
     <tr>
       <th>HTML</th>
       <th>JavaScript</th>
     </tr>
     <tr>
-      <td><img src=" " height="240" width="auto"/></td>
-      <td><img src=" " height="240" width="auto"/></td>
+      <td><img src="Screenshots/HTML_Code.PNG" height="240" width="auto"></td>
+      <td><img src="Screenshots/JavaScript_Code.PNG" height="240" width="auto"></td>
     </tr>
     <tr>
       <th colspan="2">SQL</th>
     </tr>
     <tr>
-      <td><img src=" " height="240" width="auto"/></td>
-      <td><img src=" " height="240" width="auto"/></td>
+      <td><img src="Screenshots/SQL_Code.PNG" height="240" width="auto"></td>
+      <td><img src="Screenshots/SQL_Code_2.PNG" height="240" width="auto"></td>
     </tr>
   </table>
   
-  R
-  SQL
-  Java
-  JavaSript
-  HTML
-  VBA
-  Python
-
+  <hr>
+  <br>
   
+  <a name="projects"></a>
   
-  
-  
-  
+  ## My Projects
