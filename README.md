@@ -80,16 +80,16 @@ Another student organization that I ended up joining was the social fraternity, 
       <th>Python</th>
     </tr>
     <tr>
-      <td><img src="Screenshots/VBA_Code.PNG" height="240" width="auto"></td>
-      <td><img src="Screenshots/Python_Code.PNG" height="240" width="auto"></td>
+      <td><img src="Screenshots/VBA_Code.PNG" height="250" width="auto"></td>
+      <td><img src="Screenshots/Python_Code.PNG" height="200" width="auto"></td>
     </tr>
     <tr>
       <th>Java</th>
       <th>R</th>
     </tr>
     <tr>
-      <td><img src="Screenshots/Java_Code.PNG" height="240" width="auto"></td>
-      <td><img src="Screenshots/R_Code.PNG" height="240" width="auto"></td>
+      <td><img src="Screenshots/Java_Code.PNG" height="250" width="auto"></td>
+      <td><img src="Screenshots/R_Code.PNG" height="200" width="auto"></td>
     </tr>
     <tr>
       <th>HTML</th>
