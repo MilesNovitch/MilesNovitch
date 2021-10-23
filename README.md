@@ -51,14 +51,14 @@ Quick Links: [My BIA Path](#path_bia)  |  [My Comp Sci Path](#path_cs)  |  [Soft
   
   ## My Soft Skills
   
-  ### Leadership Experience
+  #### Leadership Experience
   One of my soft skills that I pride myself the most on is my leadership abilities. I have acquired leadership experience over many years and throughout different activities and organizations. In high school, I was a dedicated member of our school's marching band and drumline, and received the role of Drum Captain my senior year. This position came with  a great deal of responsibility and required me to be an emaculate role model on top of being a musical section leader. Both on and off the field I was responsible for all others in my section and making sure we could all play our music as well as the rest of the band. This experience really helped set a good foundation for my leadership style and confidence, and is what inspired me to pursue later leadership opportunities. 
   
   Upon arrival at DU, I was excited explore more leadership opportunities among different student organizations. One club I ended up joining was the community service fraternity, Alpha Phi Omega. My junior year, I got elected to a leadership position and to serve on the executive board. Again, I served as a role model to the rest of the group and I was introduced to many new responsibilities. I had to lead group activities, plan events, play leadership roles in important rituatls, and just generally be active and social with all the members.
 
 Another student organization that I ended up joining was the social fraternity, Delta Chi. I joined this group my freshman year, and was active in it throughout my entire undergrad. While I was in this fraternity, I served 3 separate leadership positions across 3 separete terms. My third position, however, was by far the most important and most impactful on my leadership abilities. I was on the executive board as the secretary, meaning I was responsible for reserving event spaces, taking notes at meetings, organizing and moderating our communication chanels, relaying information about our chapter to the national organization, and keeping track of every member's attendance throuhgout the year. Additionally, since we are a big social fraternity on campus, I was one of the faces and representative of the organization; what I did reflect on the rest of my peers. This experience really taught me how to organize myself and utilize my time properly, as there were many points in which I faced important deadlines for paperwork that needed to be turned in to the university or to nationals. It also really helped me gegeranlly sharpen my leaderhsip abilities across the board. 
   
-  ### Communitcation & Teamwork
+  #### Communitcation & Teamwork
   In addition to giving me great leadership experience, my leadership roles at DU also heavily contributed to my communication skills. As the Secretary of a fraternity, I had to make sure that ever single member was up to date on our chapter's events, current business, and goals. Being heavily involved, I also had to keep track of multiple communication channels, including text chats, messenger app chats, Slack channels, and emails, as well as relay important information betweem them. Holding that position taught me how to stay organized in a chaotic environment like that, and how to not fall behind or get complacent with communications. However, having good communication isn't everything--you also need to know how to work in a group and work as a team. As a fraternity we had many goals, such as raising a certain amount of money for philanthropy, volunteering a certain number of community service hours, or recruiting a certain amount of new members. Achieving these goals required myself and the rest of the chapter to work together and work with a purpose.
   
   Delta Chi was not the place where I got to practice and encorporate teamwork. Throughout my many classes in the business school, including the BIA program, I have been a part of countless group projects and presentations. All of these projects require not only good communication between team members, but also a good amount of cooperation and teamwork. There were many points in which I took on the leader role of a group and was responsible for our submissions, and there were also times were I was acting merely as a team-player; in either case, the one thing that stayed consistent was the fact that the only way to achieve the outcome we wanted was by working together in a way that utilized our strengths and minimized our weaknesses. 
@@ -114,3 +114,32 @@ Another student organization that I ended up joining was the social fraternity, 
   <a name="projects"></a>
   
   ## My Projects
+  
+  #### Database Project - Stoked
+  
+  Stoked is a winter sports movie streaming service, bringing you the latest and greatest in ski edits, montages, films. The purpose of this database is to keep track of all the production companies, movies, diretors, athletes, and sponsors that work with the company. This database can be used to make decisions about customer usage, movie popularity, athlete popularity, and geographical statistcs. 
+  
+We first started out by created an ERD.
+
+<img src="Screenshots/ERD.PNG" height="auto" width="auto">
+
+We then had to create the build script. This first started with dropping and creating the tables.
+
+<img src="Screenshots/Database_SS_1.PNG" height="auto" width="auto">
+
+Next, we had to bulk load in our data.
+
+<img src="Screenshots/Database_SS_5.PNG" height="auto" width="auto">
+
+Now that our build script is done, we can move on to using it to create forms and reports. 
+First, we have the startup form.
+
+<img src="Screenshots/Database_SS_2.PNG" height="auto" width="auto">
+
+From here, we can go to the Athlete Search form to look up athletes by certain parametes. 
+
+<img src="Screenshots/Database_SS_3.PNG" height="auto" width="auto">
+
+We also have our reports, such as this one which shows us Films by Production Company and Director
+
+<img src="Screenshots/Database_SS_4.PNG" height="auto" width="auto">
