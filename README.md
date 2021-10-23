@@ -121,25 +121,47 @@ Another student organization that I ended up joining was the social fraternity, 
   
 We first started out by created an ERD.
 
-<img src="Screenshots/ERD.PNG" height="auto" width="auto">
+<br>
+
+<img src="Screenshots/ERD.png" height="auto" width="auto">
+
+<br>
 
 We then had to create the build script. This first started with dropping and creating the tables.
 
+<br>
+
 <img src="Screenshots/Database_SS_1.PNG" height="auto" width="auto">
+
+<br>
 
 Next, we had to bulk load in our data.
 
+<br>
+
 <img src="Screenshots/Database_SS_5.PNG" height="auto" width="auto">
 
-Now that our build script is done, we can move on to using it to create forms and reports. 
+<br>
+
+Now that our build script is done, we can move on to using it to create forms and reports using SQL queries. 
 First, we have the startup form.
+
+<br>
 
 <img src="Screenshots/Database_SS_2.PNG" height="auto" width="auto">
 
+<br>
+
 From here, we can go to the Athlete Search form to look up athletes by certain parametes. 
+
+<br>
 
 <img src="Screenshots/Database_SS_3.PNG" height="auto" width="auto">
 
-We also have our reports, such as this one which shows us Films by Production Company and Director
+<br>
+
+We also have our reports, such as this one which shows us Films by Production Company and Director.
+
+<br>
 
 <img src="Screenshots/Database_SS_4.PNG" height="auto" width="auto">
