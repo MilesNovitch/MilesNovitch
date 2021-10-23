@@ -117,7 +117,7 @@ Another student organization that I ended up joining was the social fraternity, 
   
   ### Database Project - Stoked
   
-  Please [click here](Database) to see my database project.
+  Please [click here](Database.md) to see my database project.
 
 ### Infographic Project
 
